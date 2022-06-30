@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/Test">
+        <file>WindowIcon.png</file>
+        <file>forest.jpg</file>
+        <file>forest_bar.png</file>
+        <file>towersit.jpg</file>
+        <file>tower1primary.png</file>
+        <file>tower2primary.png</file>
+        <file>tower3primary.png</file>
+        <file>tower4primary.png</file>
+        <file>tower5primary.png</file>
+        <file>cardsitdeep.png</file>
+        <file>road.png</file>
+        <file>startscene.png</file>
+        <file>startbutton.png</file>
+        <file>monster/1.png</file>
+        <file>monster/4.png</file>
+        <file>Bullet1Primary.png</file>
+        <file>Bullet2Primary.png</file>
+        <file>Bullet3Primary.png</file>
+        <file>Bullet4Primary.png</file>
+        <file>Bullet5Primary.png</file>
+    </qresource>
+</RCC>
